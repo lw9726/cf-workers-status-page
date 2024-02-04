@@ -32,8 +32,20 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
 
-  - id: blog-cloudflare-com2
-    name: The Cloudflare Blog
-    url: 'https://blog.cloudflare.com/'
+  - id: chat-sharedchat-cn
+    name: sharechat
+    url: 'https://chat.sharedchat.cn/'
+    method: GET
+    expectStatus: 200
+
+  - id: bingai-zklcdc-xyz
+    name: bingai
+    url: 'https://bingai.zklcdc.xyz/'
+    method: GET
+    expectStatus: 200
+
+  - id: linux-do
+    name: linux do
+    url: 'https://linux.do/'
     method: GET
     expectStatus: 200
