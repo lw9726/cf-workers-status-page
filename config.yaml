@@ -49,3 +49,10 @@ monitors:
     url: 'https://linux.do/'
     method: GET
     expectStatus: 200
+
+  - id: cocopilot-org
+    name: cocopilot.org
+    url: 'https://cocopilot.org/'
+    method: GET
+    expectStatus: 200
+    
