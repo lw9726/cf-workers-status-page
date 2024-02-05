@@ -34,9 +34,9 @@ monitors:
 
   - id: chat-sharedchat-cn
     name: sharechat
-    url: 'https://chat.sharedchat.cn/'
+    url: 'https://chat.sharedchat.cn'
     method: GET
-    expectStatus: 302
+    expectStatus: 200
 
   - id: bingai-zklcdc-xyz
     name: bingai
