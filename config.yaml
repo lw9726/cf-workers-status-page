@@ -36,13 +36,13 @@ monitors:
     name: sharechat
     url: 'https://chat.sharedchat.cn/'
     method: GET
-    expectStatus: 200
+    expectStatus: 302
 
   - id: bingai-zklcdc-xyz
     name: bingai
     url: 'https://bingai.zklcdc.xyz/'
     method: GET
-    expectStatus: 200
+    expectStatus: 302
 
   - id: linux-do
     name: linux do
