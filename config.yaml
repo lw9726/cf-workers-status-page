@@ -34,7 +34,7 @@ monitors:
 
   - id: chat-sharedchat-cn
     name: sharechat
-    url: 'https://chat.sharedchat.cn'
+    url: 'https://sharedchat.cn/shared.html'
     method: GET
     expectStatus: 200
 
