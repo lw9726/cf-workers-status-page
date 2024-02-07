@@ -38,6 +38,13 @@ monitors:
     method: GET
     expectStatus: 200
 
+  - id: mfgpt-iil-im
+    name: mfgpt
+    url: 'https://mfgpt.iil.im/'
+    method: GET
+    expectStatus: 200
+    
+
   - id: bingai-zklcdc-xyz
     name: bingai
     url: 'https://bingai.zklcdc.xyz/'
