@@ -40,7 +40,7 @@ monitors:
 
   - id: mfgpt-iil-im
     name: mfgpt
-    url: 'https://mfgpt.iil.im/'
+    url: 'https://mfgpt.iil.im/list'
     method: GET
     expectStatus: 200
     
